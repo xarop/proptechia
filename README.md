@@ -1,1 +1,1 @@
-# proptechia
+# proptechia WP theme
